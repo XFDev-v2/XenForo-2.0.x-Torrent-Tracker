@@ -5,14 +5,14 @@ XenForo 2 Torrent Tracker
 
 # Screenshots
 
-Torrent Page
-https://i.postimg.cc/J4jm29Vz/image.png
+## Torrent Page
+<img src="https://i.postimg.cc/J4jm29Vz/image.png">
 
-Thread Page
-https://i.postimg.cc/7LtN0HVs/image.png
+## Thread Page
+<img src="https://i.postimg.cc/7LtN0HVs/image.png">
 
-Thread View Page
-https://i.postimg.cc/6pnsMPSf/image.png
+## Thread View Page
+<img src="https://i.postimg.cc/6pnsMPSf/image.png">
 
-Torrent Sidebar Stats
-https://i.postimg.cc/Pq6kDw9g/image.png
+## Torrent Sidebar Stats
+<img src="https://i.postimg.cc/Pq6kDw9g/image.png">
